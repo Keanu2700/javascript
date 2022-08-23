@@ -31,5 +31,16 @@ h2 {
     font-size: 50px;
 }
 
+img{
+    width: 100%;
+    max-width: 500px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
 
 
