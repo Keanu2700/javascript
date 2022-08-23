@@ -4,12 +4,18 @@ body {background-color: Pink;}
 h1{
     color: red;
     text-align: center;
-    text-s
+    font-size: 100px;
 }
+
+.flexcontainer {
+    
+}
+
 
 h2 {
     color: green;
     text-align: center;
+    font-size: 50px;
 }
 
 footer {
@@ -18,3 +24,5 @@ footer {
     background-color: DarkSalmon;
     color: white;
   }
+
+>
