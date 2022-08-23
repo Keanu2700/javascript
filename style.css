@@ -4,12 +4,13 @@ body {background-color: Pink;}
 h1{
     color: red;
     text-align: center;
-    text-s
+    font-size: 100px;
 }
 
 h2 {
     color: green;
     text-align: center;
+    font-size: 50px;
 }
 
 
