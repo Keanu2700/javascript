@@ -9,7 +9,20 @@ h1{
 
 .flexcontainer {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+
+img {
+    max-width: 500px;
+}
+
+.hund2 {
+    max-width: 500px;
+}
+
+
 
 
 h2 {
@@ -19,4 +32,4 @@ h2 {
 }
 
 
->
+
